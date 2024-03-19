@@ -1,1 +1,1 @@
-執行pycharm
+執行pythoncharm
